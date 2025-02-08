@@ -21,6 +21,6 @@ The script requires the following Python libraries:
 To install the dependencies, use pip:
 ```bash
 pip install astropy pillow numpy tqdm
-
-Additional Note:
+ ``` 
+## Additional Note:
 DWARF 3 can be set to take TIFFs directly by adjusting the astro mode parameters.
